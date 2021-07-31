@@ -1,3 +1,5 @@
 [user]
 	email = pushdx@gmail.com
 	name = Victor
+[alias]
+	history = log --graph
